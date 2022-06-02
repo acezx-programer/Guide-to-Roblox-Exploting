@@ -15,9 +15,9 @@ Levels are the Roblox Thread Identity that the script executed through the Roblo
 | Executors | Level    | Price        | Website               | Type               |
 | :-------- | :------- | :-------     |:----------------------|  :-                |
 | Synapse X | 7        |   Paid       |  https://x.synapse.to | Keyless|
-| Script-Ware | 8 | Paid | https://script-ware.com | Needs Key|
+| Script-Ware | 8 | Paid | https://script-ware.com | Keyless|
 | KRNL | 7 | Free | https://krnl.ca | Needs Key|      
-| Trigon-Evo | 7 | Free |https://trigonevo.com | KRNL 
+| Trigon-Evo | 7 | Free |https://trigonevo.com | Needs Key
 
 ## How to Use them
 Open up your Roblox exploit/executor and make sure the game you want to hack on is open.

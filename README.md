@@ -15,7 +15,7 @@ Levels are the Roblox Thread Identity that the script executed through the Roblo
 | Executors | Level    | Price        | Website               | Type               |
 | :-------- | :------- | :-------     |:----------------------|  :-                |
 | Synapse X | 7        |   Paid       |  https://x.synapse.to | Keyless|
-| Script-Ware | 8 | Paid | https://krnl.ca | Needs Key|
+| Script-Ware | 8 | Paid | https://script-ware.com | Needs Key|
 | KRNL | 7 | Free | https://krnl.ca | Needs Key|      
 | Trigon-Evo | 7 | Free |https://trigonevo.com | KRNL 
 
